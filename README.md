@@ -12,6 +12,5 @@ a back-end API, and front-end interfacing in a clone of AirBnB.
 
 The project currently only implements the back-end console.
 <p align="center">
-  <img src="p align="center">
   <img src="https://github.com/Elksass315/AirBnB_clone/blob/master/projectMap.png" alt="AirBnB map">" alt="AirBnB logo">
 </p>
