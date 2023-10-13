@@ -7,7 +7,7 @@
 </p>
 <h4>Description:</h4>
 
-HolbertonBnB is a complete web application, integrating database storage, 
+ALX AirBnB is a complete web application, that integrates database storage, 
 a back-end API, and front-end interfacing in a clone of AirBnB.
 
 The project currently only implements the back-end console.
