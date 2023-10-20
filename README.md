@@ -7,10 +7,10 @@
 </p>
 <h4>Description:</h4>
 
-HolbertonBnB is a complete web application, integrating database storage, 
+ALX AirBnB is a complete web application, that integrates database storage, 
 a back-end API, and front-end interfacing in a clone of AirBnB.
 
-The project currently only implements the back-end console.
+The project currently implements the back-end console only.
 <p align="center">
-  <img src="https://github.com/Elksass315/AirBnB_clone/blob/master/projectMap.png" alt="AirBnB map">
+  <img src="https://github.com/Elksass315/AirBnB_clone/blob/master/projectMap.png" alt="AirBnB mindmap">
 </p>

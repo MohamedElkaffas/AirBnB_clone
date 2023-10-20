@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-"""__init__ for reload the storge"""
+"""Saves objects in file to FileStorage class attribute __objects"""
 from models.engine.file_storage import FileStorage
 
 
