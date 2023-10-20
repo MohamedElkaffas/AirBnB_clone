@@ -1,0 +1,12 @@
+footer{
+    text-align: center;
+    margin-top: auto;
+    background-color: #0F0;
+    height: 60px; 
+    width: 100%;
+}
+footer p{
+    line-height: 1.5;
+    display: inline-block;
+    vertical-align: middle;
+}
